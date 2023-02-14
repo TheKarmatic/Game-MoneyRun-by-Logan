@@ -15,7 +15,7 @@ public class EndScreenMenu : MonoBehaviour
         manager = GameObject.Find("GameManager").GetComponent<GameManager>();
 
         //Victory changes
-        if (manager.lives != 0)
+        if (manager.lives > 1)
         {
             //Panel changes
             panel.GetComponent<Image>().color = Color.yellow;
