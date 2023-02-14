@@ -1,0 +1,9 @@
+Hey Fourat, this is Logan's bad game. It's called MoneyRun for obvious reasons. The controls are pretty easy, the game even reminds you at the beginning of every level. But there's also a secret keybind:
+
+Controls:
+Space : Jump
+Escape : Skip Level
+
+Other than that, you just click on the UI buttons to start and leave the game.
+
+Good luck, the game's hard... Very hard. But possible, so I recommend hitting the escape key when you die, you have 2 seconds between reloads.
